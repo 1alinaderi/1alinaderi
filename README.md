@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Ali Naderi**
 
-### 🚀 Full Stack Web & Blockchain Developer
+### 💻 Full Stack Web & Blockchain Developer
 
 I'm a developer focused on building fast, modern, and clean web applications using **React**, **Next.js**, **Node.js**, and **Solidity**.
 
