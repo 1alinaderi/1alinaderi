@@ -10,7 +10,7 @@ I'm a developer focused on building fast, modern, and clean web applications usi
 
 * **Frontend:** React.js, Next.js, Tailwind CSS
 * **Backend:** Node.js, Express.js, MongoDB
-* **Blockchain:** Solidity, Web3.js
+* **Blockchain:** Solidity, Web3.js, Ethers.js, Hardhat
 * **Tools:** Git, GitHub, VS Code
 
 ---
@@ -21,7 +21,3 @@ I'm a developer focused on building fast, modern, and clean web applications usi
 * Develop APIs & dashboards
 * Create smart contracts, tokens & NFT collections
 * Integrate Web3 into modern applications
-
----
-
-I just love coding, I will do it for free.
